@@ -2,7 +2,7 @@
 
 ## Tentang Project
 
-Backend dari platform e-commerce yang dibangun menggunakan Laravel dan mengintegrasikan RajaOngkir untuk manajemen ongkos kirim dan Midtrans untuk memproses pembayaran. Backend ini digunakan untuk menyediakan API untuk frontend mengakses data. Backend ini juga menyediakan fitur untuk mengelola data e-commerce, seperti data user, data produk, data transaksi, dan data laporan.
+Backend dari platform e-commerce yang dibangun menggunakan Laravel dan mengintegrasikan RajaOngkir untuk manajemen ongkos kirim dan Midtrans untuk memproses pembayaran. Backend ini digunakan untuk menyediakan API untuk frontend mengakses data. Backend ini juga menyediakan fitur untuk mengelola data e-commerce, seperti data user, data produk, data transaksi, dan data laporan. Frontend dapat ditemukan [di sini](https://github.com/Yoga-Firmansyah/e-commerce-v2.git).
 ### Beberapa Fitur yang tersedia:
 - Autentikasi User 
 - Manajemen Produk
